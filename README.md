@@ -8,7 +8,7 @@ mvn clean package<br/>
 java -jar target/displayUnderlyingSQLRequest-0.0.1-SNAPSHOT.jar<br/>
 <br/>
 
-During the first execution, the console shows : <br/>
+During the execution, the console shows : <br/>
 Hibernate:<br/>
 &nbsp;&nbsp;select<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;customer0_.id as id1_0_,<br/>
